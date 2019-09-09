@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "description": "This package helps in using inversify js easily as using an array",
   "types": "./dist/index.d.ts",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc"
